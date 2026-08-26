@@ -1,0 +1,6 @@
+{
+  "name": "TaskPulse To-Do & Auth App",
+  "description": "A feature-complete mobile To-Do application with Node.js backend API, user authentication, smart priority-deadline mix sorting, categories, and productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
